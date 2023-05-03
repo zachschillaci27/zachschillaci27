@@ -1,4 +1,4 @@
-### Hi there 👋
+Building things with large language models ...
 
 <!--
 **zachschillaci27/zachschillaci27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
