@@ -1,7 +1,7 @@
 Building things with large language models ...
 
-![zachschillaci27's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachschillaci27&rank_icon=github&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachschillaci27&layout=donut&theme=dark)
+![GitHub stats](https://github-readme-stats-indol-five-38.vercel.app/api?username=zachschillaci27&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-indol-five-38.vercel.app/api/top-langs/?username=zachschillaci27&layout=donut&exclude_repo=Thesis&hide=mask&theme=dark)
 
 <!--
 **zachschillaci27/zachschillaci27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
