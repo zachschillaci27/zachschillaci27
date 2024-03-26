@@ -1,9 +1,11 @@
 Building things with large language models ...
 
+<!--
 <p align="left">
     <img align="centre" src="https://github-readme-stats-rho-eight-13.vercel.app/api?username=zachschillaci27&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=00000000" height=180px/>
     <img src="https://github-readme-stats-rho-eight-13.vercel.app/api/top-langs/?username=zachschillaci27&hide_border=true&layout=compact&langs_count=8&exclude_repo=Thesis,Modules&theme=transparent&bg_color=00000000" height="180px"/>
 </p>
+-->
 
 <!--
 **zachschillaci27/zachschillaci27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
